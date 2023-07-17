@@ -134,7 +134,7 @@ class _MyHomePageState extends State<MyHomePage>
                         height: 50,
                         color: Colors.green[400]!,
                         icon: const Icon(
-                          Icons.add,
+                          Icons.person,
                           color: Colors.white,
                         ),
                         callback: () {},
